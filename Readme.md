@@ -26,7 +26,7 @@
 
 ## 🖼️ Screenshots
 
-<div align="center">
+<div align="center"> 
 <table>
   <tr>
     <td><img src="https://github.com/streamlit/streamlit/raw/develop/examples/data/screenshot.png" alt="Encryption Mode" width="400"/></td>
